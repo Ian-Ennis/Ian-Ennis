@@ -22,7 +22,10 @@ Hope I don't forget it
 Thanks I'll be here all week
 
 
-Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the world of the head-spinning JOB SEARCH. Like, literally every day. Thankfully I have fun projects to work on to keep me sane. Oh yeah, and I had fun making this banner! I'm curious about languages and tools I don't know and I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also create music as witnessed ^above^ and enjoy many many other things, like nature and outdoor recreation, astronomy, mental health, and video games.. so basically things like coyotes, walking by coyotes, supernovas, fidget-spinners, and an old 90's game called Heroes of Might and Magic (thank you New World Computing). Oh, and another one by one of my all-time favorite company relics from the past, Ambrosia Software (love you guys wherever you are these days), who created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards application below. 
+Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the world of the head-spinning JOB SEARCH. Like, literally every day. Thankfully I have fun projects to work on to keep me sane. Oh yeah, and I had fun making this banner! I'm curious about languages and tools I don't know and I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also create music as witnessed ^above^ and enjoy many many other things, like nature and outdoor recreation, astronomy, mental health, and video games.. so basically things like coyotes, walking by coyotes, supernovas, fidget-spinners, and an old 90's game called Heroes of Might and Magic (thank you New World Computing). Oh, and another one by one of my all-time favorite company relics from the past, Ambrosia Software (love you guys wherever you are these days), who created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, below with my other works. 
+
+
+![image](https://user-images.githubusercontent.com/89211252/157529697-e795bb19-a5da-40e2-91e2-4fa4cd5c57a0.png)
 
 
 Yep, this banner is totally being used on my LinkedIn as well, which can conveniently be found below.
@@ -40,7 +43,4 @@ The week of March 7th - 13th:
 
 
 Inspirations:
-Douglas Adams
-[Bungie](https://www.bungie.net/)
-[The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour)
-More on the way!
+Douglas Adams | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | More on the way!
