@@ -5,15 +5,10 @@
 [chorus]
 
 I didn't start the fire,
-
 'Cause I'm always learning
-
 Since the world's been turning;
-
 I didn't start the fire
-
 At first, I didn't get it
-
 Hope I don't forget it
 
 [end]
@@ -26,7 +21,9 @@ Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the worl
 
 Okay, so now the me part. 
 
-I'm curious about languages and tools I don't know and I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also create music as witnessed ^above^ and enjoy many many other things, like nature and outdoor recreation, astronomy, mental health, and video games.. so seeing moose, and running away from charging moose; supernovas; fidget-spinners; and an old 90's game called Heroes of Might and Magic (thank you New World Computing) could all constitute SOLID examples of such interests. Oh, and another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days), who created a wonderfully-brilliant series of games called Escape Velocity which inspired my Sigma Shipyards apps, below with my other works. Some of these are jokes (but the games aren't!)
+I'm curious about languages and tools I don't know and I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also create music as witnessed ^above^ and enjoy many many other things, like nature and outdoor recreation, astronomy, mental health, and video games.. so seeing moose, and running away from charging moose; supernovas; fidget-spinners.. solid examples..
+
+Okay okay, all jokes aside, I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, appearing first above my other works.
 
 
 ➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder application with the purpose of immersing the user in sci-fi space retro-futurism
@@ -59,4 +56,4 @@ contact
 
 
 Inspirations:
-Douglas Adams | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way!
+[Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
