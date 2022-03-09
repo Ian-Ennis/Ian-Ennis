@@ -33,7 +33,7 @@ The week of March 7th - 13th:
 contact
 --------------------------
 - I can be reached here --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/) | ipatrickenn7@gmail.com
-- My writing can be read here --> [Blog](	ian-patrick-ennis.medium.com)
+- My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 - My pronouns are he/him
 
 Fun fact of the week: I was once chased by an Elk while riding my bycicle years ago while working for Grand Canyon. And they can run fast. 
