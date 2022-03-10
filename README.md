@@ -37,7 +37,7 @@ contact
 - My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 - My pronouns are he/him
 
-Fun fact of the month: I can replace my car's supension system on my own, somehow without breaking things.    
+Fun fact of the month: I lived and worked at the Grand Canyon National Park for a year while completing an internship with their Science and Resource Management Division.     
 
 Inspirations:
 [Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
