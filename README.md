@@ -4,16 +4,16 @@ Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the worl
 
 Okay, so now the me part. 
 
-I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also enjoy many many other things, like nature and outdoor recreation, astronomy, mental health advocacy, and video games.. so, seeing moose; and running away from charging moose; supernovas; fidget-spinners.. all relatively solid examples..
+I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also enjoy many many other things, like nature and outdoor recreation, astronomy, mental health advocacy, and video games.. for instance, yodeling through valleys, and running away from angry moose, supernovas, fidget-spinners.. all relatively solid examples..
 
-Okay okay. All jokes aside, I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, appearing first above my other works.
+Okay okay. All jokes aside, I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my set of personal values. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, appearing first above my other works.
 
 
 ➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder application with the purpose of immersing the user in sci-fi space retro-futurism
 <img width="500" alt="system_select" src="https://user-images.githubusercontent.com/89211252/157541679-9f4ea1fc-2e35-4683-8075-13d95a645eb4.png"><img width="500" alt="shipyard" src="https://user-images.githubusercontent.com/89211252/157541722-b64364ac-b277-4ba5-a8c2-510ea3752d1a.png">
 
 
-➢ [Leg-Up Activity Tracker](https://github.com/Ian-Ennis/activity_tracker) | A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio
+➢ [Leg-Up Activity Tracker](https://github.com/Ian-Ennis/activity_tracker) | A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio, with more activities on the way!
 
 
 ➢ [Cozy Cat Cafe](https://github.com/Ian-Ennis/phase_2_project_cozy_cat_cafe) | An online cat cafe, providing users the ability to view books and adoptable cats
@@ -36,9 +36,9 @@ contact
 - My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 - My pronouns are he/him
 
-Fun fact of the week: I was once chased by an Elk while riding my bycicle years ago while working for Grand Canyon. And they can run fast. 
+Fun fact of the week: I was once chased by an  Elk while riding my bycicle years ago during working for Grand Canyon. They aren't slow. 
 
 Inspirations:
 [Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
 
-Thanks! I'll be here every week-day.  
+Thanks for reading! I'll be here every week-day.  
