@@ -9,9 +9,10 @@ I'm curious about languages and tools I don't yet know. I like to learn how to u
 Okay okay. All jokes aside, I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, which happens to be right here along with my other projects:
 
 
-➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder web-based game with the purpose of immersing the user in scifi space retro-futurism
+➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder web-based game with the purpose of immersing the user in scifi space retro-futurism. 
 
 <img width="500" alt="system_select" src="https://user-images.githubusercontent.com/89211252/157541679-9f4ea1fc-2e35-4683-8075-13d95a645eb4.png"><img width="500" alt="shipyard" src="https://user-images.githubusercontent.com/89211252/157541722-b64364ac-b277-4ba5-a8c2-510ea3752d1a.png">
+(^I do know how to CSS frameworks, but decided it would be more fun to forego them and design things myself on this one :smiley:^)
 
 
 ➢ [Leg-Up Activity Tracker](https://github.com/Ian-Ennis/activity_tracker) | A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio, with more activities on the way!
