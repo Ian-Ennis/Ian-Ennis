@@ -4,7 +4,7 @@ Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the worl
 
 Okay, so now the me part. 
 
-I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. I also enjoy many many other things, like nature and outdoor recreation, astronomy, mental health advocacy, and video games.. for instance, yodeling through valleys, and running away from angry moose, supernovas, fidget-spinners.. all relatively solid examples..
+I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. For example, learning and incorporating Redux into my spaceship-builder app to eliminate use of component state in React. I also enjoy many many other things, like nature and outdoor recreation, astronomy, mental health advocacy, doing my own car repairs, and video games.. for instance, yodeling through valleys, running away from angry moose (why moose, why?!), supernovas, replacing power steering fluid on a car with electric power steering (Toyota, you sneaky), fidget-spinners.. all relatively solid examples..
 
 Okay okay. All jokes aside, I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, appearing first above my other works.
 
@@ -37,7 +37,7 @@ contact
 - My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 - My pronouns are he/him
 
-Fun fact of the week: I was once chased by an  Elk while riding my bycicle years ago during working for Grand Canyon. They aren't slow. 
+Fun fact of the month: I can replace my car's supension system on my own, somehow without breaking things.    
 
 Inspirations:
 [Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
