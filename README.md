@@ -35,7 +35,7 @@ The week of March 7th - 13th:
 contact
 --------------------------
 - My pronouns are he/him
-- I can be reached at this places --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
+- I can be reached at this place --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
 - My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 
 Fun fact of the month: I lived and worked at the Grand Canyon National Park for a year while completing an internship with their Science and Resource Management Division.     
