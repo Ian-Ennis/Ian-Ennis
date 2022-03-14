@@ -1,4 +1,4 @@
-![ma1EXW7WxvNt_1584_396](https://user-images.githubusercontent.com/89211252/157522654-1437ad8c-ca25-40c7-a0fa-e252066b8599.png)
+![23](https://user-images.githubusercontent.com/89211252/158245743-d495da7d-0857-4df0-b0e4-e26ed70f0508.png)
 
 Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the world of the head-spinning JOB SEARCH. Literally every day. Thankfully, I have fun projects to work on to keep me sane. Oh yeah, and I had fun making above banner from scratch! And yes, is 100% being used on my [LinkedIn](https://www.linkedin.com/in/ian-ennis-23b70915a/) (in the name of efficiency).
 
