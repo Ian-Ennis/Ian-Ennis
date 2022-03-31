@@ -4,9 +4,9 @@ Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the worl
 
 Okay, so now the me part. 
 
-I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. For example, learning and incorporating Redux into my spaceship-builder app to eliminate use of component state in React. I also enjoy many many other things, like nature and outdoor recreation, astronomy, mental health advocacy, doing my own car repairs, and video games.. for instance, yodeling through valleys, running away from angry moose (why moose, why?!), supernovas, replacing power steering fluid on a car with electric power steering (Toyota, you sneaky), fidget-spinners.. all relatively solid examples..
+I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. Like learning and incorporating Redux into my spaceship-builder app to eliminate use of React component state. 
 
-Okay okay. All jokes aside, I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, which happens to be right here along with my other projects:
+I also have other interests! I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. I like to garden. And I've always appreciated the value of a good video game since playing old 90's mac games, like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, which happens to be right here along with my other projects:
 
 
 ➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
@@ -28,9 +28,11 @@ Okay okay. All jokes aside, I'm an avid hiker, camper, climber, and all-around e
 --------------------------
 schedule
 --------------------------
-The week of March 7th - 13th:
-- I’m currently working on refactoring my projects, connecting with folks outside my network, and continually discovering how I can apply code to my interests!
-- I’m also learning different kinds of algorithms, more React hooks like useSound to add a dynamic to my ship-builder app, styling using bare-bones CSS, and just learned how to write a GitHub about-me README. :grin:
+The week of March 28th - April 3rd, I'm:
+- Transitioning all of my files to my new Macbook and getting the necessities installed. Hooray! 
+- Algorithims!
+- Creating demo videos for my current projects
+- And, more algorithms 
 
 
 --------------------------
@@ -40,7 +42,7 @@ contact
 - I can be reached at this place --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
 - My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 
-Fun fact of the month: I lived and worked at the Grand Canyon National Park for a year while completing an internship with their Science and Resource Management Division.     
+Fun fact of the month: I lived and worked at the Grand Canyon National Park for a year while completing an internship with their Science and Resource Management Division.
 
 Inspirations:
 [Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
