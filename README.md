@@ -44,7 +44,7 @@ contact
 - I can be reached at this place --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
 - My writing can be read here --> [Blog](https://ian-patrick-ennis.medium.com/)
 
-Fun fact of the month: I lived and worked at the Grand Canyon National Park for a year while completing an internship with their Science and Resource Management Division.
+Fun fact of the month: I can somehow play most instruments. Not sure how that works to be honest. But I'll allow it!
 
 Inspirations:
 [Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
