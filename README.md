@@ -13,7 +13,7 @@ I've always appreciated the value of a good video game since playing old 90's ma
 
 ➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
 
-<img width="500" alt="system_select" src="https://user-images.githubusercontent.com/89211252/157541679-9f4ea1fc-2e35-4683-8075-13d95a645eb4.png"><img width="500" alt="shipyard" src="https://user-images.githubusercontent.com/89211252/157541722-b64364ac-b277-4ba5-a8c2-510ea3752d1a.png">
+<img width="500" alt="shipyard" src="https://user-images.githubusercontent.com/89211252/157541722-b64364ac-b277-4ba5-a8c2-510ea3752d1a.png">
 
 (^I am fully capable of using a CSS framework, but decided it would be more fun to forego them and design things myself on this one :smiley:^)
 
