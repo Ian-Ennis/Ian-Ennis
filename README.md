@@ -2,11 +2,9 @@
 
 Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the world of the head-spinning JOB SEARCH. Literally every day. Thankfully, I have fun projects to work on to keep me sane. Oh yeah, and I had fun making above banner from scratch! And yes, is 100% being used on my [LinkedIn](https://www.linkedin.com/in/ian-ennis-23b70915a/) (in the name of efficiency).
 
-Okay, so now the me part. 
-
 I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. Like learning and incorporating Redux into my spaceship-builder app to eliminate use of React component state. 
 
-I also have other interests! I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with outer space and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. And I spend quite of bit of time in the garden. 
+I also have other interests! I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with the environment and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. And I spend quite of bit of time in the garden. 
 
 I've always appreciated the value of a good video game since playing old 90's mac games! Like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, which happens to be right here along with my other projects:
 
@@ -49,4 +47,4 @@ Fun fact of the month: I can somehow play most instruments. Not sure how that wo
 Inspirations:
 [Douglas Adams](https://www.tatteredcover.com/book/9780345391803) (Support your local bookstores!) | [Bungie](https://www.bungie.net/) | [The Banff Mountain Film Festival](https://www.banffcentre.ca/banffmountainfestival/tour) | [NASA](https://www.nasa.gov/) | More on the way
 
-Thanks for reading! I will be here every week-day.  
+Thanks for reading. I will be here every week-day. 
