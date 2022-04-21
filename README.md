@@ -1,12 +1,18 @@
 ![23](https://user-images.githubusercontent.com/89211252/158245743-d495da7d-0857-4df0-b0e4-e26ed70f0508.png)
 
-Hello! I'm Ian. I'm a recent bootcamp graduate, and now I'm immersed in the world of the head-spinning JOB SEARCH. Literally every day. Thankfully, I have fun projects to work on to keep me sane. Oh yeah, and I had fun making above banner from scratch! And yes, is 100% being used on my [LinkedIn](https://www.linkedin.com/in/ian-ennis-23b70915a/) (in the name of efficiency).
+Welcome!
 
-I'm curious about languages and tools I don't yet know. I like to learn how to use them so I can give them meaningful applications, in.. well, applications. Like learning and incorporating Redux into my spaceship-builder app to eliminate use of React component state. 
+About me:
 
-I also have other interests! I'm an avid hiker, camper, climber, and all-around explorer of the mountains west of Denver where I'm originally from. I am perpetually fascinated with the environment and astronomy. I was raised by social workers and believe in promoting mental health awareness, and incorporate that into my personal set of values. And I spend quite of bit of time in the garden. 
+I love to experiment with how to purposefully use code, while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, different ways of progressing and guiding users through an application, or providing something of value to overall well-being.
 
-I've always appreciated the value of a good video game since playing old 90's mac games! Like Heroes of Might and Magic (thank you New World Computing). And another one by one of my all-time favorite software company relics from my childhood, Ambrosia Software (love you guys wherever you are these days). Ambrosia created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards apps, which happens to be right here along with my other projects:
+I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature, and enjoy packing a back and immersing myself in the woods for hours at a time. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
+
+I was raised by social workers and believe in promoting mental health awareness. I think it should be integrated into everyone's set of perosnal values. 
+
+I spend quite of bit of time in the garden, as I enjoy working toward a goal piece by piece not just to look over the work I've accomplished when finished, but to enjoy the process. Just like with my coding. 
+
+I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look. 
 
 
 ➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
@@ -28,12 +34,10 @@ I've always appreciated the value of a good video game since playing old 90's ma
 --------------------------
 schedule
 --------------------------
-The week of March 28th - April 3rd, I'm:
-- Transitioning all of my files to my new Macbook and getting the necessities installed. Hooray! 
-- Algorithims!
-- Creating demo videos for my current projects
-- And, more algorithms 
-
+The week of April 18th - 24th, I'm:
+- Studing more on data structures 
+- Starting a new project repo (so many possibilities...)
+- Getting to know folks in the Denver area coding community
 
 --------------------------
 contact
