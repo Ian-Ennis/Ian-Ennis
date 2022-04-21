@@ -4,11 +4,11 @@ Welcome!
 
 About me:
 
-I love to experiment with how to purposefully use code, while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, different ways of progressing and guiding users through an application, or providing something of value to overall well-being.
+I love to experiment with how to purposefully use code, while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, different ways of progressing and guiding users through an application, and providing something of value to overall well-being.
 
 I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature, and enjoy packing a bag and a dog (just not in the bag, he's too big) and immersing myself in the woods for hours at a time. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
 
-I was raised by social workers and believe in promoting mental health awareness. I think it should be integrated into everyone's set of perosnal values. 
+I was raised by social workers and believe in promoting mental health awareness, because it is crucial to us living happier lives but frequently gets swept under the table. 
 
 I spend quite of bit of time in the garden, as I enjoy working toward a goal piece by piece not just to look over the work I've accomplished when finished, but to enjoy the process. Just like with my coding. 
 
