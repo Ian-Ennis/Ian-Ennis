@@ -2,9 +2,7 @@
 
 Welcome!
 
-About me:
-
-I love to experiment with how to purposefully use code, while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, different ways of progressing and guiding users through an application, and providing something of value to overall well-being.
+I enjoy experimenting with how to build purposeful thoughtful projects while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, different ways of progressing and guiding users through an application, and providing something of value to overall health and well-being.
 
 I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature, and enjoy packing a bag and a dog (just not in the bag, he's too big) and immersing myself in the woods for hours at a time. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
 
