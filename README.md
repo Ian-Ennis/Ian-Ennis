@@ -32,10 +32,10 @@ I've always appreciated the value of a good video game since playing old 90's ma
 --------------------------
 schedule
 --------------------------
-The week of April 18th - 24th, I'm:
-- Studing more on data structures 
-- Starting a new project repo (so many possibilities...)
-- Getting to know folks in the Denver area coding community
+The week of May 2nd - 8th, I'm:
+- Increasing foundational knowledge of data structures & their associated algorithms 
+- Finishing authentication & authorization and implementing my wireframe for a new project I'm currently working on: <em>Evocation Station</em>
+- Getting to know more wonderful folks in the Denver area coding community
 
 --------------------------
 contact
