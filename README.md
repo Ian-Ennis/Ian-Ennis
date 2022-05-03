@@ -34,7 +34,8 @@ schedule
 --------------------------
 The week of May 2nd - 8th, I'm:
 - Increasing foundational knowledge of data structures & their associated algorithms 
-- Finishing authentication & authorization and implementing my wireframe for a new project I'm currently working on: <em>Evocation Station</em>
+- Starting a new project geared toward Homeowners who want help selecting new trees for their property
+- Finishing authentication & authorization and implementing my wireframe for another new project, <em>Evocation Station</em>.
 - Getting to know more wonderful folks in the Denver area coding community
 
 --------------------------
