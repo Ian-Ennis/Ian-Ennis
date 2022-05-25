@@ -34,7 +34,7 @@ I've always appreciated the value of a good video game since playing old 90's ma
 contact
 --------------------------
 - My pronouns are he/him
-- I can be reached here to discuss my working for your company. --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
+- If you would like to hire me, or even just chat about code, I can be reached here. --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
 
 
 Inspirations:
