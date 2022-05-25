@@ -12,6 +12,7 @@ I spend quite of bit of time in the garden, as I enjoy working toward a goal pie
 
 I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look. 
 
+➢ Evocation Station | Current project currently in development. Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Uses Rails ActiveStorage for file transers and storage. 
 
 ➢ [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
 
@@ -28,15 +29,6 @@ I've always appreciated the value of a good video game since playing old 90's ma
 
 ➢ [Star Vault](https://github.com/Ian-Ennis/star_vault) | A friendly place for amateur astronomers to upload their interstellar discoveries
 
-
---------------------------
-schedule
---------------------------
-The week of May 2nd - 8th, I'm:
-- Increasing foundational knowledge of data structures & their associated algorithms 
-- Starting a new project geared toward Homeowners who want help selecting new trees for their property
-- Finishing authentication & authorization and implementing my wireframe for another new project, <em>Evocation Station</em>.
-- Getting to know more wonderful folks in the Denver area coding community
 
 --------------------------
 contact
