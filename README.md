@@ -14,7 +14,7 @@ About me:
 # ✧ [Portfolio](https://ian-ennis.herokuapp.com/) ✧ 
 
 
-View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. Welcome.
+View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. [Welcome.](https://ian-ennis.herokuapp.com/).
 
 
 
