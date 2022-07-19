@@ -20,7 +20,7 @@ View my projects, see my stack, and learn who and what has inspired me to become
 
 
 
----
+
 ### [Evocation Station](https://github.com/Ian-Ennis/evocation_station)
 Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage. 
 
@@ -29,7 +29,7 @@ Users can craft "Evocations" using pre-supplied materials or by uploading their 
 
 
 
----
+
 ### [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards)
 Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
 
@@ -40,21 +40,21 @@ Game-focused spaceship builder with the purpose of guiding users through a journ
 
 
 
----
+
 ### [Leg-Up Activity Tracker](https://github.com/Ian-Ennis/activity_tracker)
 A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio.
 
 
 
 
----
+
 ### [Cozy Cat Cafe](https://github.com/Ian-Ennis/phase_2_project_cozy_cat_cafe)
 An online cat cafe, providing users the ability to view books and adoptable cats
 
 
 
 
----
+
 ### [Star Vault](https://github.com/Ian-Ennis/star_vault)
 A friendly place for amateur astronomers to upload their interstellar discoveries
 
