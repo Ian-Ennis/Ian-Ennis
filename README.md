@@ -10,7 +10,9 @@ I was raised by social workers and believe in promoting mental health awareness,
 
 I spend quite of bit of time in the garden, as I enjoy working toward a goal piece by piece not just to look over the work I've accomplished when finished, but to enjoy the process. Just like with my coding. 
 
-I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look. 
+I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look.
+
+➢ [Portfolio](https://ian-ennis.herokuapp.com/) | View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. Welcome.
 
 ➢ [Evocation Station](https://github.com/Ian-Ennis/evocation_station) | Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage. 
 
