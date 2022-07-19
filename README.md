@@ -14,7 +14,7 @@ About me:
 # ✧ [Portfolio](https://ian-ennis.herokuapp.com/) ✧ 
 
 
-View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. [Welcome.](https://ian-ennis.herokuapp.com/).
+View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. [Welcome.](https://ian-ennis.herokuapp.com/)
 
 
 
@@ -50,7 +50,7 @@ A friendly place for amateur astronomers to upload their interstellar discoverie
 
 
 
---------------------------
+
 contact
 --------------------------
 - My pronouns are he/him
