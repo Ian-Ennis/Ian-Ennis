@@ -11,7 +11,8 @@ I spend quite of bit of time in the garden, as I enjoy working toward a goal pie
 
 I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look.
 
-✧ [Portfolio] ✧ (https://ian-ennis.herokuapp.com/) | View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. Welcome.
+✧ [Portfolio](https://ian-ennis.herokuapp.com/) ✧ 
+View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. Welcome.
 
 
 ➢ [Evocation Station](https://github.com/Ian-Ennis/evocation_station)
