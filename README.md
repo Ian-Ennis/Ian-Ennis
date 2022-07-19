@@ -4,16 +4,14 @@ Welcome!
 
 I enjoy experimenting with how to build thoughtful and purposeful projects while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, ways of progressing and guiding users through an application, and providing something of value to overall health and well-being.
 
-I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature, and enjoy packing a bag and a dog (just not in the bag, he's too big) and immersing myself in the woods for hours at a time. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
-
-I was raised by social workers and believe in promoting mental health awareness, because it is crucial to us living happier lives but frequently gets swept under the table. 
+About me:
+I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature and outdoor recreation. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
 
 I spend quite of bit of time in the garden, as I enjoy working toward a goal piece by piece not just to look over the work I've accomplished when finished, but to enjoy the process. Just like with my coding. 
 
 I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look.
 
-
-➢ [Portfolio](https://ian-ennis.herokuapp.com/) | View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. Welcome.
+Alt-H2 ➢ [Portfolio](https://ian-ennis.herokuapp.com/) | View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. Welcome.
 
 
 ➢ [Evocation Station](https://github.com/Ian-Ennis/evocation_station) | Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage. 
