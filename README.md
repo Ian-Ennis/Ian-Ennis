@@ -20,14 +20,14 @@ View my projects, see my stack, and learn who and what has inspired me to become
 
 
 ## [Evocation Station](https://github.com/Ian-Ennis/evocation_station)
-Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage. 
+Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage
 
 <img width="500" alt="evocation_station" src="https://user-images.githubusercontent.com/89211252/179861552-6f2a1b70-9873-44b2-bede-090c22a9d6c3.png">
 
 
 
 ## [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards)
-Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
+Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism
 
 <img width="500" alt="sigma_shipyards" src="https://user-images.githubusercontent.com/89211252/179861174-722bae63-a68c-4b41-a465-935051afefac.png">
 
@@ -36,7 +36,9 @@ Game-focused spaceship builder with the purpose of guiding users through a journ
 
 
 ## [Leg-Up Activity Tracker](https://github.com/Ian-Ennis/activity_tracker)
-A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio.
+A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio
+
+<img width="500" alt="leg_up_activity_tracker" src="https://user-images.githubusercontent.com/89211252/179863874-79ef5841-ae8c-48ad-9c72-33354fec30b4.png">
 
 
 
