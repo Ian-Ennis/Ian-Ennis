@@ -15,6 +15,8 @@ I've always appreciated the value of a good video game since playing old 90's ma
 
 [Evocation Station](https://github.com/Ian-Ennis/evocation_station) | Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage. 
 
+<img width="500" alt="evocation_station" src="https://user-images.githubusercontent.com/89211252/179857095-62dbd786-8aa3-4d42-a6c0-e21e3851fd87.png">
+
 [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards) | Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
 
 <img width="500" alt="shipyard" src="https://user-images.githubusercontent.com/89211252/157541722-b64364ac-b277-4ba5-a8c2-510ea3752d1a.png">
