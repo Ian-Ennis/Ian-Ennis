@@ -22,7 +22,7 @@ View my projects, see my stack, and learn who and what has inspired me to become
 ## [Evocation Station](https://github.com/Ian-Ennis/evocation_station)
 Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file uploads and storage. 
 
-<img width="500" alt="evocation_station" src="https://user-images.githubusercontent.com/89211252/179857095-62dbd786-8aa3-4d42-a6c0-e21e3851fd87.png">
+<img width="500" alt="evocation_station" src="https://user-images.githubusercontent.com/89211252/179861552-6f2a1b70-9873-44b2-bede-090c22a9d6c3.png">
 
 
 
