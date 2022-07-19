@@ -29,7 +29,7 @@ Users can craft "Evocations" using pre-supplied materials or by uploading their 
 ## [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards)
 Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism.
 
-<img width="500" alt="shipyard" src="https://user-images.githubusercontent.com/89211252/157541722-b64364ac-b277-4ba5-a8c2-510ea3752d1a.png">
+<img width="500" alt="sigma_shipyards" src="https://user-images.githubusercontent.com/89211252/179861174-722bae63-a68c-4b41-a465-935051afefac.png">
 
 (^I'm fully capable of using a CSS framework, but decided it would be more fun to forego them and design things myself on this one :smiley:^)
 
