@@ -5,7 +5,7 @@ Welcome!
 I enjoy experimenting with how to build thoughtful and purposeful projects while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, ways of progressing and guiding users through an application, and providing something of value to overall health and well-being.
 
 About me:
-- I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature and outdoor recreation. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
+- I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature and outdoor recreation and incredibly passionate about environmental conservation. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery. 
 
 - I spend quite of bit of time in the garden, as I enjoy working toward a goal piece by piece not just to look over the work I've accomplished when finished, but to enjoy the process. Just like with my coding. 
 
