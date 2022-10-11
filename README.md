@@ -16,7 +16,7 @@ Live spaceflight launch tracker with launch vehicles, dates, sites, and mission 
 - File storage with Amazon Web Services Simple Storage Solutions (S3)
 - Deployed with AWS Amplify Studio using a Continuous Integration and Continuous Delivery (CI/CD) pipeline
 
-<img width="500" alt="flight_horizons_entry" src="https://flight-horizons.s3.us-west-2.amazonaws.com/entry_screenshot.png">
+<img width="500" alt="flight_horizons_home" src="https://flight-horizons.s3.us-west-2.amazonaws.com/Home_Screenshot.png">
 
 
 
