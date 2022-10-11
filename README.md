@@ -62,15 +62,6 @@ A tool to provide fans of physical activity with the ability to record activity 
 
 
 
-## [Cozy Cat Cafe](https://github.com/Ian-Ennis/phase_2_project_cozy_cat_cafe)
-An online cat cafe, providing users the ability to view books and adoptable cats
-
-
-
-## [Star Vault](https://github.com/Ian-Ennis/star_vault)
-A friendly place for amateur astronomers to upload their interstellar discoveries
-
-
 
 
 contact
