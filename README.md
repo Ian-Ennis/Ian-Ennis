@@ -26,7 +26,7 @@ Live spaceflight launch tracker with launch vehicles, dates, sites, and mission 
 - File storage with AWS Simple Storage Solutions
 - Deployed with AWS Amplify Studio using a Continuous Integration and Continuous Delivery (CI/CD) pipeline
 
-<img width="500" alt="flight_horizons" src="https://flight-horizons.s3.us-west-2.amazonaws.com/home_screenshot.png">
+<img width="500" alt="flight_horizons" src="https://flight-horizons.s3.us-west-2.amazonaws.com/Home_Screenshot.png">
 
 
 
@@ -76,7 +76,7 @@ A friendly place for amateur astronomers to upload their interstellar discoverie
 contact
 --------------------------
 - My pronouns are he/him
-- If you would like to reach me about what front end skills I can offer, or even just chat about code, I can be reached here --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
+- If you would like to reach me about what skills I can offer, or even just chat about code, I can be reached here --> [LinkedIn](https://www.linkedin.com/in/ian-ennis-tanstaafl-slatfatf/)
 
 
 Inspirations:
