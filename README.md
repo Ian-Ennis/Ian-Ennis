@@ -1,15 +1,6 @@
 ![23](https://user-images.githubusercontent.com/89211252/158245743-d495da7d-0857-4df0-b0e4-e26ed70f0508.png)
 
-Welcome!
-
-I enjoy experimenting with how to build thoughtful and purposeful projects while creating fun and enjoyable experiences for the user. So far, I have explored color choice, sound, guiding users through UI presentation, and/or providing something of value to overall health and well-being.
-
-About me:
-- I'm an avid hiker, camper, climber, and all-around explorer of the rocky mountains west of Denver where I'm originally from. I'm perpetually fascinated with nature and outdoor recreation and incredibly passionate about environmental conservation. I'm also a huge fan astronomy and outerspace and see each as frontiers meriting further discovery.
-
-- I spend quite of bit of time in the garden, as I enjoy working toward a goal piece by piece not just to look over the work I've accomplished when finished, but to enjoy the process. Just like with my coding. 
-
-- I've always appreciated the value of a good video game since playing old 90's mac games, like the Heroes of Might and Magic series. (Thank you, New World Computing). Ambrosia Software, a now-relic of the past, also created a wonderfully-brilliant series of games called Escape Velocity, which inspired my Sigma Shipyards app below and is shown along with my other projects! So come have a look.
+Welcome
 
 # ✧ [Portfolio](https://ian-ennis.herokuapp.com/) ✧ 
 
@@ -21,9 +12,9 @@ View my projects, see my stack, and learn who and what has inspired me to become
 
 ## [Flight Horizons](https://github.com/Ian-Ennis/flight_horizons)
 Live spaceflight launch tracker with launch vehicles, dates, sites, and mission information for spaceflight enthusiasts
-- Ensured correct UI render with RTL inline snapshot tests and mocked fetch requests to eliminate test API calls
 - Rendered initial CSS animations once using session storage and tested timeout functionality using Jest fake timers
-- File storage with AWS Simple Storage Solutions
+- Ensured correct UI render with inline snapshot tests from React Testing Library and mocked fetch requests with Jest to eliminate test API calls
+- File storage with Amazon Web Services Simple Storage Solutions (S3)
 - Deployed with AWS Amplify Studio using a Continuous Integration and Continuous Delivery (CI/CD) pipeline
 
 <img width="500" alt="flight_horizons" src="https://flight-horizons.s3.us-west-2.amazonaws.com/Home_Screenshot.png">
@@ -31,9 +22,10 @@ Live spaceflight launch tracker with launch vehicles, dates, sites, and mission 
 
 
 ## [Evocation Station](https://github.com/Ian-Ennis/evocation_station)
-Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. Utilized React, and Amazon Web Services S3 together with Rails ActiveStorage for file storage
+Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. 
 - Implemented user authentication with client-side cookies and session information storage with Ruby on Rails
 - Parsed HTML from TinyMCE rich text editor to render submitted user text with custom formatting retained
+- Relied on component state with React to share user input data throughout components
 - Configured AWS S3 bucket to store and retrieve image and audio files for improved performance and data reliability
 
 <img width="500" alt="evocation_station" src="https://user-images.githubusercontent.com/89211252/179861552-6f2a1b70-9873-44b2-bede-090c22a9d6c3.png">
