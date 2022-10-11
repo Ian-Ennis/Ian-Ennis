@@ -12,7 +12,7 @@ View my projects, see my stack, and learn who and what has inspired me to become
 
 ## [Flight Horizons](https://github.com/Ian-Ennis/flight_horizons)
 Live spaceflight launch tracker with launch vehicles, dates, sites, and mission information for spaceflight enthusiasts
-- Rendered initial CSS animations once using session storage and tested timeout functionality using Jest fake timers
+- Rendered initial CSS animations once using session storage and tested animation timeout functionality using Jest fake timers
 - Ensured correct UI render with inline snapshot tests from React Testing Library and mocked fetch requests with Jest to eliminate test API calls
 - File storage with Amazon Web Services Simple Storage Solutions (S3)
 - Deployed with AWS Amplify Studio using a Continuous Integration and Continuous Delivery (CI/CD) pipeline
