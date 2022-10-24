@@ -1,6 +1,3 @@
-![23](https://user-images.githubusercontent.com/89211252/158245743-d495da7d-0857-4df0-b0e4-e26ed70f0508.png)
-
-
 # ✧ [Portfolio](https://ian-ennis.herokuapp.com/) ✧ 
 
 
