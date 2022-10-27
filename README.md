@@ -8,11 +8,11 @@ View my projects, see my stack, and learn who and what has inspired me to become
 
 ## Flight Horizons | [Website](https://flight-horizons.d24la999gwql7c.amplifyapp.com/) | [Repo](https://github.com/Ian-Ennis/flight_horizons)
 Live spaceflight launch tracker with launch vehicles, dates, sites, and mission information for spaceflight enthusiasts
+- Incorporated Typescript to reduce type-safety bugs and define object structure for nested API data
 - Rendered initial CSS animations once using session storage and tested animation timeout functionality using Jest fake timers
 - Mocked fetch requests with Jest to eliminate API calls to the server during testing
 - Ensured correct UI render with inline snapshot tests from React Testing Library
-- File storage with Amazon Web Services Simple Storage Solutions (S3)
-- Deployed with AWS Amplify Studio using a Continuous Integration and Continuous Delivery (CI/CD) pipeline
+- Deployed to Amazon Web Services (AWS) Amplify Studio with S3 for file storage and pipeline for CI/CD
 
 <img width="500" alt="flight_horizons_home" src="https://flight-horizons.s3.us-west-2.amazonaws.com/Home_Screenshot.png">
 
