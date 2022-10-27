@@ -6,7 +6,7 @@ View my projects, see my stack, and learn who and what has inspired me to become
 
 
 
-## [Flight Horizons](https://github.com/Ian-Ennis/flight_horizons)
+## Flight Horizons | [Website](https://flight-horizons.d24la999gwql7c.amplifyapp.com/) | [Repo](https://github.com/Ian-Ennis/flight_horizons)
 Live spaceflight launch tracker with launch vehicles, dates, sites, and mission information for spaceflight enthusiasts
 - Rendered initial CSS animations once using session storage and tested animation timeout functionality using Jest fake timers
 - Mocked fetch requests with Jest to eliminate API calls to the server during testing
@@ -18,7 +18,7 @@ Live spaceflight launch tracker with launch vehicles, dates, sites, and mission 
 
 
 
-## [Evocation Station](https://github.com/Ian-Ennis/evocation_station)
+## Evocation Station | [Website](https://evocation-station.d6byuulmc9cr5.amplifyapp.com/) | [Repo](https://github.com/Ian-Ennis/evocation_station)
 Users can craft "Evocations" using pre-supplied materials or by uploading their own images, sounds, and text to create evocative posts. Includes a rich text editor for input text formatting. 
 - Implemented user authentication with client-side cookies and session information storage with Ruby on Rails
 - Parsed HTML from TinyMCE rich text editor to render submitted user text with custom formatting retained
