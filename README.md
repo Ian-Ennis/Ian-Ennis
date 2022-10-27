@@ -1,7 +1,7 @@
-# ✧ [Portfolio](https://ian-ennis.herokuapp.com/) ✧ 
+# ✧ [Portfolio](https://github.com/Ian-Ennis/personal_website) ✧ 
 
 
-View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. [Welcome.](https://ian-ennis.herokuapp.com/)
+View my projects, see my stack, and learn who and what has inspired me to become the person I am at present. [Welcome.](https://ian-ennis.d1y3sr6inb3otz.amplifyapp.com/)
 
 
 
