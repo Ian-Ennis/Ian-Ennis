@@ -14,7 +14,7 @@ Live spaceflight launch tracker with launch vehicles, dates, sites, and mission 
 - Ensured correct UI render with inline snapshot tests from React Testing Library
 - Deployed to Amazon Web Services (AWS) Amplify Studio with S3 for file storage and pipeline for CI/CD
 
-<img width="500" alt="flight_horizons_home" src="https://flight-horizons.s3.us-west-2.amazonaws.com/Home_Screenshot.png">
+<img width="500" alt="flight_horizons_home" src="https://github.com/Ian-Ennis/flight_horizons/blob/main/public/Home_Screenshot.png">
 
 
 
