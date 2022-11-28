@@ -41,7 +41,7 @@ Game-focused spaceship builder with the purpose of guiding users through a journ
 
 
 
-## [Leg-Up Activity Tracker](https://github.com/Ian-Ennis/activity_tracker)
+## Leg-Up Activity Tracker | [Front end repo](https://github.com/Ian-Ennis/activity_tracker) | [Back end repo](https://github.com/Ian-Ennis/activity_tracker_back_end)
 A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio
 - Utilized client-side routing with React Router for programmatic navigation and conditional component rendering
 - Uploaded user input data to Rails API and passed into open-source HTML5 charts (Chart.js) to render visual records
