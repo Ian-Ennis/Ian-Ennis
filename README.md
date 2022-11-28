@@ -29,7 +29,7 @@ Users can craft "Evocations" using pre-supplied materials or by uploading their 
 
 
 
-## [Sigma Shipyards](https://github.com/Ian-Ennis/sigma_shipyards)
+## Sigma Shipyards | [Repo](https://github.com/Ian-Ennis/sigma_shipyards)
 Game-focused spaceship builder with the purpose of guiding users through a journey in sci-fi space retro-futurism
 - Incorporated common UI design principles with Vanilla CSS to create a consistent, visually-appealing UI
 - Dispatched actions to reducer functions with Redux Toolkit to store widely-used, frequently-updated application state
@@ -41,7 +41,7 @@ Game-focused spaceship builder with the purpose of guiding users through a journ
 
 
 
-## Leg-Up Activity Tracker | [Front end repo](https://github.com/Ian-Ennis/activity_tracker) | [Back end repo](https://github.com/Ian-Ennis/activity_tracker_back_end)
+## Leg-Up Activity Tracker | [Repo](https://github.com/Ian-Ennis/activity_tracker)
 A tool to provide fans of physical activity with the ability to record activity sessions for meditation, yoga, and cardio
 - Utilized client-side routing with React Router for programmatic navigation and conditional component rendering
 - Uploaded user input data to Rails API and passed into open-source HTML5 charts (Chart.js) to render visual records
